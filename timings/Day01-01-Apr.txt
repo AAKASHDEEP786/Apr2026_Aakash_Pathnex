@@ -9,7 +9,7 @@
 
 ## Tomorrow's Task
 
-ELK, Kafka, Terraform revision  
+Linux, EC2, Terraform revision  
 1 hour coding  
 1 hour English reading  
 1 hour Question paper
