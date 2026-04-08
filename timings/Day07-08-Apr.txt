@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 1 hour   - AWS, EC2, VPC, Route53, WAF & Shield, CICD tools
+[x] 1.5 hour - Presentation practice
+[x] 1 hour  - Setting up nginx server
+[x] 30 mins - Watching English videos
+
+Tomorrow's Task
+
+1 hour - AWS theory
+1 hour - Coding
+1 hour - Cloud practice
+1 hour - English practice
