@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 1 hour   - AWS (WAF, Shield, RDS, Load Balancer, CloudFront, CodePipeline)
+[x] 1 hour   - Presentation practice
+[x] 30 hour  - Creating VPC
+[x] 30 mins  - Watching English videos
+
+Tomorrow's Task
+
+1 hour - Azure
+1 hour - Coding
+1 hour - Cloud practice
+1 hour - English practice
