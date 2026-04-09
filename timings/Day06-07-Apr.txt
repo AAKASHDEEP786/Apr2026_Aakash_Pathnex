@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 1 hour - AWS VPC setup (created VPC, subnets, and configured networking)
+[x] 1 hour - EC2 instance setup (launched instance and connected via SSH)
+[x] 30 mins - Security groups and basic configuration
+[x] 30 mins - English speaking practice
+
+Tomorrow's Task
+
+1 hour - Linux and Git practice
+1 hour - Coding
+1 hour - Cloud practice (advanced networking)
+1 hour - English practice
