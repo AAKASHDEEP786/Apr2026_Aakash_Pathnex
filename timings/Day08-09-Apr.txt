@@ -2,7 +2,7 @@
 
 [x] 1 hour   - AWS (WAF, Shield, RDS, Load Balancer, CloudFront, CodePipeline)
 [x] 1 hour   - Presentation practice
-[x] 30 hour  - Creating VPC
+[x] 30 mins  - Creating VPC
 [x] 30 mins  - Watching English videos
 
 Tomorrow's Task
