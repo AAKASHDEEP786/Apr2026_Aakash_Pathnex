@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 1 hour   - Docker (Docker Image, Docker-Compose, Networking, Interview Questions)
+[x] 30 hour  - Presentation practice
+[x] 1 hour   - Writing Dockerfile
+[x] 1 hour   - English practice
+
+Tomorrow's Task
+
+1 hour - AWS, Docker
+1 hour - Coding
+1 hour - DevOps videos
+1 hour - English practice
