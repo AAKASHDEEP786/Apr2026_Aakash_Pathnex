@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 1.5 hour - Kubernetes (Architecture, Master, Worker, Pods, Namespace, Servives, Stateful & Stateless)
+[x] 1 hour   - Presentation practice
+[x] 1 hour   - Writing Manifest File
+[x] 1 hour   - Kubernetes videos
+
+Tomorrow's Task
+
+1 hour - AWS, EKS
+1 hour - Coding
+1 hour - DevOps videos
+1 hour - English practice
