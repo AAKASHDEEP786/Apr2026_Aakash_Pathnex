@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 45 min - Kubernetes Deployment (EKS Cluster)+ Bastion Host
+[x] 1 hour - Presentation practice
+[x] 30 min - Writing Manifest File
+[x] 1 hour - Kubernetes videos
+
+Tomorrow's Task
+
+1 hour - AWS, EKS
+1 hour - Coding
+1 hour - DevOps videos
+1 hour - English practice
