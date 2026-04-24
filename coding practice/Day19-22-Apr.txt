@@ -1,0 +1,19 @@
+provider "aws" {
+  region = "ap-south-1"   # Mumbai region
+}
+resource "aws_instance" "my_ec2" {
+  ami           = "ami-0f5ee92e2d63afc18"   # Amazon Linux 2 (example)
+  instance_type = "t2.micro"
+
+  tags = {
+    Name = "MyTerraformEC2"
+  }
+}
+resource "aws_s3_bucket" "my_bucket" {
+  bucket = "aakash-deep-terraform-bucket-12345"  # must be unique globally
+
+  tags = {
+    Name        = "MyTerraformBucket"
+    Environment = "Dev"
+  }
+}
