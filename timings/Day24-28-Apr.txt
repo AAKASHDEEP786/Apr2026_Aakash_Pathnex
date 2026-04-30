@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 1 hour  - Monitoring (ELK Stack)
+[x] 1 hour  - Presentation Practice
+[x] 30 min  - English Practive
+[x] 30 min  - Coding Practice
+
+## Tomorrow's Task
+
+1 hour - Monitoring
+1 hour - Coding
+1 hour - DevOps videos
+1 hour - Interview Preperation
