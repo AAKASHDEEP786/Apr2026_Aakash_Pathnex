@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 1 hour  - CI- Pipeline
+[x] 1 hour  - Written Jenkins Pipeline
+[x] 1 hour  - English Practive
+[x] 30 min  - Coding Practice
+
+## Tomorrow's Task
+
+1 hour - CICD
+1 hour - Coding
+1 hour - DevOps videos
+1 hour - Interview Preperation

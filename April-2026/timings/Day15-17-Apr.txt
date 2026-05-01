@@ -1,0 +1,13 @@
+## What I did today
+
+[x] 1 hour  - EKS Cluster
+[x] 45 mins - Presentation practice
+[x] 1 hour  - Interview Preperation
+[x] 1 hour  - Kubernetes videos
+
+Tomorrow's Task
+
+1 hour - AWS, EKS
+1 hour - Coding
+1 hour - DevOps videos
+1 hour - Interview Preperation

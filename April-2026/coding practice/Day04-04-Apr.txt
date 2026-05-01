@@ -1,0 +1,48 @@
+# Topic: Linux Monitoring and System Commands
+
+## Tasks Performed:
+
+1. System Monitoring using top
+- Checked CPU usage, memory usage, and load average
+- Identified running processes
+
+2. Process Listing using ps
+- Used ps aux to list all processes
+- Filtered specific processes using grep
+
+Example:
+ps aux | grep nginx
+ps aux | grep -i amazon
+
+3. System Information Commands
+- uname → checked system type
+- cat /etc/os-release → checked OS version
+- cat /proc/cpuinfo → checked CPU details
+
+4. Network and Port Monitoring
+- Used ss command to check open ports and services
+
+Command:
+ss -tulnp
+
+----------------------------------------
+
+## What I Learned:
+- How to monitor system performance using top
+- How to list and filter processes using ps and grep
+- How to check system and CPU information
+- How to view open ports using ss
+
+----------------------------------------
+
+## Challenges:
+- Remembering different command options
+- Understanding output of ss command
+
+----------------------------------------
+
+## Next Plan:
+- Practice more Linux troubleshooting commands
+- Learn log analysis
+
+----------------------------------------

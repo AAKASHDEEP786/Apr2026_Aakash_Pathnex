@@ -1,0 +1,23 @@
+# chart.yaml
+
+apiVersion: v2
+name: my-app
+description: A simple Helm chart for Kubernetes app
+type: application
+version: 0.1.0
+appVersion: "1.0"
+
+# value.yaml
+
+replicaCount: 2
+
+image:
+  repository: nginx
+  tag: latest
+  pullPolicy: IfNotPresent
+
+service:
+  type: LoadBalancer
+  port: 80
+
+containerPort: 80
