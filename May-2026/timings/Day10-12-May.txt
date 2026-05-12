@@ -1,0 +1,15 @@
+## What I did today
+
+[x] 2 hour  - CICD, AWS
+[x] 30 min  - Interview Questions 
+[x] 30 min  - coding  
+[x] 3 hour  - DevOps hands-on  
+
+---
+
+## Tomorrow's Task
+
+2 hour - Ansible
+30 min - coding  
+30 min - English speaking 
+1 hour - Question paper

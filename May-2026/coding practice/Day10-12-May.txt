@@ -1,0 +1,28 @@
+resource "aws_instance" "example" {
+  ami           = "ami-1234567890abcdef0"
+  instance_type = "t2.micro"
+
+  lifecycle {
+
+    # Prevent resource from being destroyed
+    prevent_destroy = true
+
+    # Create new resource first, then destroy old one
+    create_before_destroy = true
+
+    # Ignore changes to specific attributes
+    ignore_changes = [
+      tags,
+      instance_type
+    ]
+
+    # Replace resource when another resource changes
+    replace_triggered_by = [
+      aws_launch_template.lt
+    ]
+  }
+
+  tags = {
+    Name = "demo-instance"
+  }
+}
