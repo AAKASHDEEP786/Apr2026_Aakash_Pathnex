@@ -1,0 +1,15 @@
+## What I did today
+
+[x] 2 hour  - Monitoring (Prometheus, Grafana)
+[x] 1 hour - PFD Study
+[x] 30 min  - coding  
+[x] 1 hour  - DevOps hands-on  
+
+---
+
+## Tomorrow's Task
+
+2 hour - Monitoring
+30 min - coding  
+30 min - English speaking 
+1 hour - Question paper
