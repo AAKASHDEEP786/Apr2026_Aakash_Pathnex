@@ -1,0 +1,15 @@
+## What I did today
+
+[x] 2 hour  - K8s, GitLab
+[x] 30 min  - Interview Questions 
+[x] 30 min  - coding  
+[x] 4 hour  - DevOps hands-on  
+
+---
+
+## Tomorrow's Task
+
+2 hour - K8s, CICD
+1 hour - coding  
+1 hour - English speaking 
+1 hour - Question paper
