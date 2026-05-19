@@ -1,0 +1,16 @@
+#!/bin/bash
+
+branches=("15-May" "16-May" "17-May" "18-May")
+
+for branch in "${branches[@]}"
+do
+    echo "Deleting local branch: $branch"
+    git branch -D "$branch"
+
+    echo "Deleting remote branch from GitHub: $branch"
+    git push origin --delete "$branch"
+
+    echo "-----------------------------------"
+done
+
+echo "All branches deleted successfully!"
